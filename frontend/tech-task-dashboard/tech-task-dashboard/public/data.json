@@ -1,0 +1,7 @@
+[
+    { "name": "Ad 1", "impressions": 4000, "clicks": 2400, "cost": 200 },
+    { "name": "Ad 2", "impressions": 3000, "clicks": 1398, "cost": 1500 },
+    { "name": "Ad 3", "impressions": 2000, "clicks": 9800, "cost": 1000 },
+    { "name": "Ad 4", "impressions": 2780, "clicks": 3908, "cost": 1800 },
+    { "name": "Ad 5", "impressions": 1890, "clicks": 4800, "cost": 900 }
+  ]
